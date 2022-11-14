@@ -2,6 +2,8 @@
 
 [Supjavd](https://supjav.com/) m3u8 playlist proxy. Use for IPTV/m3u8 player.
 
+[中文版本](README_zh.md)
+
 ## Features
 
 - Support [Cloudflare Workers](https://workers.cloudflare.com/)
